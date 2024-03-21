@@ -1,6 +1,6 @@
 package pertemuan_5;
 
-public class MataKuliahMain {
+public class Main {
     public static void main(String[] args) {
         MataKuliah mk1 = new MataKuliah("001", "Alpro 1", "A", 3);
         MataKuliah mk2 = new MataKuliah("002", "Alpro 2", "BC", 3);
